@@ -236,7 +236,6 @@ public class VideoModule implements CameraModule,
     private ImageView mFlashIndicator;
     private ImageView mExposureIndicator;
     private ImageView mHdrIndicator;
-
     private final Handler mHandler = new MainHandler();
 
     // The degrees of the device rotated clockwise from its natural orientation.
